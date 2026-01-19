@@ -1,29 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Especialista+en+Data+Cleaning;Experto+en+Excel+y+Python;Tu+Aliado+en+Automatizaci%C3%B3n" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZED...;USER:+KEVIN+%7C+DATA+ARCHITECT;LOADING+PROTOCOLS...;STATUS:+READY+TO+WORK" alt="Typing SVG" />
+  </a>
 </div>
 
-<h2 align="center">🚀 Kevin | Data Solutions</h2>
-
-> *"Los datos sucios cuestan dinero. Los datos limpios generan oportunidades."*
-
-### 👨‍💻 Sobre mí
-Soy un consultor independiente enfocado en la **precisión**. Mientras otros lo hacen manual, yo construyo flujos de trabajo automatizados para garantizar 0% de error en tus bases de datos.
-
-### 🧰 Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-</p>
-
-### 📈 Mis Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
+<hr style="border: 2px solid #00FFCC;" />
 
 <div align="center">
-  <h3>📫 <a href="TU_LINK_DE_LINKEDIN">¡Contáctame para trabajar juntos!</a></h3>
+  
+  <a href="TU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_NOW-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-SEND_ENCRYPTED_MSG-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010" />
+  </a>
+
 </div>
+
+<br>
+
+### 📟 TERMINAL: `User_Bio.exe`
+```python
+class Kevin(DataSpecialist):
+    def __init__(self):
+        self.name = "Kevin"
+        self.role = "Data & AI Strategist"
+        self.language = ["es_LA", "en_US"]
+        
+    def solve_problem(self):
+        data_chaos = True
+        while data_chaos:
+            self.clean_data()
+            self.automate_workflow()
+            self.optimize_revenue()
+            return "SUCCESS: CLIENT SATISFIED 🚀""
+            
+# Ejecutando script...
+# > Eliminando ineficiencias... [OK]
+# > Maximizando resultados... [OK]
