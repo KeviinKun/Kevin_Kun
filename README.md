@@ -1,55 +1,29 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pzv687gwE/giphy.gif" width="100%" />
-  
-  <h1 align="center">Hola, soy Kevin 👋</h1>
-  <h3 align="center">Especialista en Gestión de Datos & Automatización</h3>
-  
-  <p align="center"> 
-    Ayudo a empresas a transformar bases de datos caóticas en activos limpios y rentables.
-  </p>
-  
-  <p align="center">
-    <a href="TU_LINK_DE_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:TU_EMAIL@GMAIL.COM">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="TU_LINK_DE_UPWORK_O_FIVERR">
-      <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Especialista+en+Data+Cleaning;Experto+en+Excel+y+Python;Tu+Aliado+en+Automatizaci%C3%B3n" alt="Typing SVG" />
 </div>
 
----
+<h2 align="center">🚀 Kevin | Data Solutions</h2>
 
-### 🛠️ Arsenal Técnico
+> *"Los datos sucios cuestan dinero. Los datos limpios generan oportunidades."*
+
+### 👨‍💻 Sobre mí
+Soy un consultor independiente enfocado en la **precisión**. Mientras otros lo hacen manual, yo construyo flujos de trabajo automatizados para garantizar 0% de error en tus bases de datos.
+
+### 🧰 Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+### 📈 Mis Estadísticas
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="90">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" alt="Excel" /><br><b>Excel</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br><b>Python</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /><br><b>Pandas</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn-icons-png.flaticon.com/512/28/28815.png" width="40" alt="CSV" /><br><b>CSV</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### ⚡ Lo que hago mejor
-* 🔭 **Limpieza de Datos:** Estandarización masiva de CRMs y listas de contactos.
-* 🌱 **Automatización:** Scripts en Python para eliminar tareas repetitivas.
-* 📊 **Conversión:** PDF a Excel / CSV a Excel sin errores.
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" alt="Kevin's Stats" />
+  <h3>📫 <a href="TU_LINK_DE_LINKEDIN">¡Contáctame para trabajar juntos!</a></h3>
 </div>
